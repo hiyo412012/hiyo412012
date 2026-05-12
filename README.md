@@ -1,5 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=hiyo412012&show_icons=true&theme=tokyonight&locale=vi)
-
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hiyo412012&show_icons=true&theme=tokyonight&locale=vi)
 
 <!--
 **hiyo412012/hiyo412012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
