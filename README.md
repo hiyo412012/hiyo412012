@@ -1,19 +1,15 @@
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hiyo412012&show_icons=true&theme=tokyonight&locale=vi)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiyo412012&theme=tokyonight)](https://git.io/streak-stats)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiyo412012&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
-**hiyo412012/hiyo412012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hiyo412012&show_icons=true&theme=tokyonight&locale=vi" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiyo412012&theme=tokyonight" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiyo412012&theme=tokyonight&area=true" width="820" />
+    </td>
+  </tr>
+</table>
