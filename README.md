@@ -3,9 +3,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiyo412012&theme=tokyonight)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiyo412012&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hiyo412012&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **hiyo412012/hiyo412012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
