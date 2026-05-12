@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hiyo412012&show_icons=true&theme=tokyonight&locale=vi)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hiyo412012&show_icons=true&theme=tokyonight&locale=vi) [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiyo412012&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiyo412012&theme=tokyonight)](https://git.io/streak-stats)
 <!--
